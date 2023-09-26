@@ -1,5 +1,2 @@
-while(true)
-    // {
-    //     cout<<i<<endl;
-        
-    // }
+cout<<*p<<endl;
+        // p++;
